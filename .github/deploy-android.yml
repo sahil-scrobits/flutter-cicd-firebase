@@ -1,4 +1,4 @@
-name: Deploy Android to Firebase App Distribution on merge
+name: Deploy Android to Firebase App Distribution on merge change
 on:
   push:
     branches:
